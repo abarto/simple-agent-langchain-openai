@@ -1,0 +1,85 @@
+brand,model,type_,is_electric,km_per_liter,range_in_km,price
+Fork,Mustang,sedan,False,15,,35000
+Toyolla,Corolla,hatchback,False,18,,22000
+Hyundae,Elantra,sedan,False,17,,24000
+VVV,Tiguan,suv,False,12,,30000
+Fork,F-150,truck,False,10,,40000
+Toyolla,Highlander,suv,False,13,,35000
+Hyundae,Santa Fe,suv,False,14,,33000
+VVV,Jetta,sedan,False,16,,25000
+Fork,Focus,compact,False,19,,20000
+Toyolla,Yaris,compact,False,20,,18000
+Hyundae,Venue,hatchback,False,18,,21000
+VVV,Polo,hatchback,False,19,,19000
+Fork,Fusion,sedan,False,16,,26000
+Toyolla,Camry,sedan,False,15,,29000
+Hyundae,Sonata,sedan,False,16,,27000
+VVV,Passat,sedan,False,14,,32000
+Fork,Bronco,suv,False,12,,37000
+Toyolla,RAV4,suv,False,13,,34000
+Hyundae,Tucson,suv,False,14,,31000
+VVV,Atlas,suv,False,11,,39000
+Fork,Ecosport,hatchback,False,18,,23000
+Toyolla,C-HR,hatchback,False,17,,24000
+Hyundae,Kona,hatchback,False,19,,22000
+VVV,Golf,hatchback,False,18,,25000
+Fork,Explorer,suv,False,11,,41000
+Toyolla,4Runner,suv,False,10,,42000
+Hyundae,Palisade,suv,False,12,,38000
+VVV,Touareg,suv,False,11,,44000
+Fork,Escape,suv,False,13,,33000
+Toyolla,Venza,suv,False,14,,36000
+Hyundae,Veracruz,suv,False,12,,35000
+VVV,T-Roc,hatchback,False,18,,27000
+Fork,Maverick,truck,False,12,,32000
+Toyolla,Tundra,truck,False,9,,45000
+Hyundae,Porter,truck,False,11,,37000
+VVV,Amarok,truck,False,10,,43000
+Fork,Fiesta,compact,False,21,,17000
+Toyolla,Avalon,sedan,False,14,,35000
+Hyundae,Accent,compact,False,20,,19000
+VVV,Beetle,compact,False,19,,23000
+Fork,Puma,hatchback,False,18,,24000
+Toyolla,Mirai,sedan,False,16,,28000
+Hyundae,Ioniq,sedan,False,17,,26000
+VVV,Arteon,sedan,False,15,,33000
+Fork,Mustang Mach-E,suv,True,,400,60000
+Toyolla,EV4,suv,True,,380,55000
+Hyundae,Ioniq 5,suv,True,,450,52000
+VVV,ID.4,suv,True,,400,54000
+Fork,F-150 Lightning,truck,True,,450,70000
+Toyolla,bZ4X,suv,True,,420,53000
+Hyundae,Kona Electric,hatchback,True,,390,47000
+VVV,e-Golf,hatchback,True,,360,45000
+Fork,E-Transit,truck,True,,300,65000
+Toyolla,Proace Electric,van,True,,330,49000
+Hyundae,Staria Electric,van,True,,310,48000
+VVV,ID.Buzz,van,True,,340,51000
+Fork,Escape PHEV,suv,True,,370,52000
+Toyolla,Prius Prime,hatchback,True,,390,46000
+Hyundae,Tucson PHEV,suv,True,,380,50000
+VVV,Passat GTE,sedan,True,,400,53000
+Fork,Mach-E GT,suv,True,,420,62000
+Toyolla,Highlander Hybrid,suv,True,,410,57000
+Hyundae,Santa Fe PHEV,suv,True,,370,55000
+VVV,Arteon PHEV,sedan,True,,360,58000
+Fork,Ranger Electric,truck,True,,310,61000
+Toyolla,Sienna Electric,van,True,,340,50000
+Hyundae,Nexo,van,True,,320,53000
+VVV,Caddy Electric,van,True,,310,51000
+Fork,Focus Electric,compact,True,,350,48000
+Toyolla,Yaris Electric,compact,True,,360,42000
+Hyundae,Ioniq 3,compact,True,,370,44000
+VVV,up! Electric,compact,True,,340,41000
+Fork,Escape Hybrid,suv,True,,390,54000
+Toyolla,RAV4 Prime,suv,True,,400,57000
+Hyundae,Creta Electric,suv,True,,360,51000
+VVV,ID.3,compact,True,,350,49000
+Fork,Maverick Hybrid,truck,True,,320,53000
+Toyolla,Tacoma Electric,truck,True,,310,60000
+Hyundae,Porter Electric,truck,True,,330,57000
+VVV,Amarok Electric,truck,True,,310,59000
+Fork,Fiesta Electric,compact,True,,350,46000
+Toyolla,Corolla Electric,hatchback,True,,360,48000
+Hyundae,Elantra Electric,sedan,True,,370,52000
+VVV,Jetta Electric,sedan,True,,350,51000

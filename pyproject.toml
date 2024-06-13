@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "simple-agent-langchain-openai"
+version = "0.1.0"
+description = ""
+authors = ["Agustin Barto <abarto@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.2.3"
+langchain-openai = "^0.1.8"
+python-dotenv = "^1.0.1"
+langchain-community = "^0.2.4"
+langgraph = "^0.0.66"
+duckduckgo-search = "^6.1.6"
+pandas = "^2.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+gradio = "^4.36.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
